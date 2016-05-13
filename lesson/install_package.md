@@ -19,7 +19,8 @@
 
 ### 3. Zip 安装  
 
-- Github上有个``Download ZIP`, 点击下载.  
+- 在Github上搜索, 找到合适的Package.  
+- 点击`Download ZIP`下载.  
 - 解压到[Package Path](./packages_path.md).  
 
 ### 三种方式的优劣
