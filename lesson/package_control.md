@@ -1,10 +1,11 @@
 # Package Control
-> Author : [Floyda](http://floyda.xyz/)
-> Date   : 2016-5-10
+> Author : [Floyda](http://floyda.xyz/)  
+> Date   : 2016-5-13  
+> Github : https://github.com/Sublime-Chinese/sublime-zh  
 
 [TOC]
 
-## 介绍
+### 介绍
 
 顾名思义, `Package Control`就是用来管理Sublime的package的控制器.
 通过`command panel(Ctrl + Shift + P)`, 输入'Package Control'或者'pc'打开(Sublime提供了模糊搜索功能)
@@ -35,7 +36,7 @@
 "Package Control: Tests",
 ```
 
-## 安装
+### 安装
 
 打开官网[https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
@@ -50,12 +51,12 @@ It will change with every release. Instead, please link to this page.
 
 ![pkg_ctrl_simple](./pkg_ctrl_simple.png)
 
-1.根据Sublime的版本来选择安装代码.
-2.复制文本框中的内容.
-3.在Sublime打开Console(Ctrl + `), 粘贴安装代码到输入框, 回车.
-4.等待若干时间, 成功与否, 都会有提示
+1.根据Sublime的版本来选择安装代码.  
+2.复制文本框中的内容.  
+3.在Sublime打开Console(Ctrl + `), 粘贴安装代码到输入框, 回车.  
+4.等待若干时间, 成功与否, 都会有提示  
 
-## 使用
+### 使用
 
 - pci
 打开`command panel`, 输入'pci', 回车, 然后根据关键字搜索Package, 回车安装.
