@@ -1,8 +1,8 @@
 # phplinter
 > Author : [黑白](http://jaylabs.sinaapp.com/)  
-> Date   : 2016-6-17
+> Date   : 2016-6-17  
 > Github : https://github.com/Sublime-Chinese/sublime-zh  
-> Source : http://jaylabs.sinaapp.com/archive/88.html
+> Source : http://jaylabs.sinaapp.com/archive/88.html  
 
 装sublime linter
 
