@@ -9,3 +9,4 @@
 ### Plugin
 
 - [phplinter](./plugin/phplinter.md)
+- IMESupport 支持输入框跟随光标移动的插件
