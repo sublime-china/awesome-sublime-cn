@@ -1,9 +1,9 @@
 # Sublime Text Tips  
 > Author : [Floyda](http://floyda.xyz/)  
-> Date   : 2016-7-2
+> Date   : 2016-7-2  
 > Github : https://github.com/Sublime-Chinese/sublime-zh  
 
-[TOC]
+[TOC]  
 
 ### 0. 介绍
 > I'm Josh Earl, web developer and fan of Sublime Text.
