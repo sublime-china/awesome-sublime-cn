@@ -26,9 +26,9 @@ Null
 
 
 ### 4. [Sublime Text Tips](./tips/sublime_tips.md)  
-- [2016-07-07](./tips/sublime_tips.md)
-> [Emmet] 给内容加标签  
-> [Packages] ReactJS  
-> [Packages] HTML Extended  
-> [Theme] Frontend Light  
+- [2016-07-07](./tips/sublime_tips.md)  
+> Emmet    : 给内容加标签  
+> Packages : ReactJS  
+> Packages : HTML Extended  
+> Theme    : Frontend Light  
 
