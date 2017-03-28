@@ -1,4 +1,4 @@
-# sublime-zh
+# awesome-sublime-cn
 
 [TOC]
 
@@ -32,4 +32,3 @@ Null
 > Packages : ReactJS  
 > Packages : HTML Extended  
 > Theme    : Frontend Light  
-
