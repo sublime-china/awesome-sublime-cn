@@ -15,8 +15,8 @@
 
 
 
-### 2. Packages  
-- [phplinter](./plugin/phplinter.md)
+### 2. Packages
+- [phplinter](./packages/phplinter.md)
 - IMESupport 支持输入框跟随光标移动的插件  
 
 
