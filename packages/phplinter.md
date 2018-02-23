@@ -6,7 +6,7 @@
 
 装sublime linter
 
-装sublime linter php
+装sublime linter php  pac安装不了就手动装 设置执行目录
 
 设置tool ->sublime linter ->toggle linter。为php。将show_errors_on_save 设为true。
 
