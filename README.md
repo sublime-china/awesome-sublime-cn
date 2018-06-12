@@ -1,9 +1,7 @@
-# awesome-sublime-cn
-
-[TOC]
+# Awesome Sublime Cn
 
 ## Lesson
-- [Sublime安装Package的3种方法](lesson/install_package.md)
+- [Sublime 安装 Package 的 3 种方法](lesson/install_package.md)
 - [Package Control](lesson/package_control.md)
 - [Packages Path](lesson/packages_path.md)
 - [Sublime 快捷键](lesson/sublime_shortcuts.md)
@@ -19,11 +17,10 @@
 
 
 ## 各语言编译环境
-- [在Mac上搭建C#的Sublime开发环境](blog/build-cs.md)
-- [搭建Sublime的C/C++开发环境](build-c-and-cpp.md)
-- [搭建Sublime的Lua开发环境](build-lua.md)
-- [搭建Sublime的Nodejs开发环境](build-nodejs.md)
-
+- [在 Mac 上搭建 C# 的 Sublime 开发环境](blog/build-cs.md)
+- [搭建 Sublime 的 C/C++ 开发环境](build-c-and-cpp.md)
+- [搭建 Sublime 的 Lua 开发环境](build-lua.md)
+- [搭建 Sublime 的 Nodejs 开发环境](build-nodejs.md)
 
 
 ## [Sublime Text Tips](tips/sublime_tips.md)
