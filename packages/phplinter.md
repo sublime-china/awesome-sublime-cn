@@ -13,3 +13,8 @@
 设置电脑环境变量 里 加上php.exe所在目录。
 
 重启st。
+
+
+# LSP
+安装lsp 和 LSP-intelephense.  一键开启 IDE 模式
+![image](https://user-images.githubusercontent.com/1614114/133561126-678d8afa-162d-47af-a48c-a9512bd6b7ef.png)
